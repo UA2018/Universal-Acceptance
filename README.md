@@ -14,4 +14,5 @@ Universal Acceptance is a foundational requirement for a truly multilingual Inte
 
 
 https://uasg.tech/
+
 https://uasg.tech/documents/
