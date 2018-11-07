@@ -2,10 +2,15 @@
 The concept that all domain names should be treated equally
 
 Universal Acceptance (UA) is the state where all valid domain names and email addresses are 
+
 accepted, 
+
 validated, 
+
 stored, 
+
 processed and 
+
 displayed correctly and consistently 
 
 by all Internet-enabled applications, devices and systems.
